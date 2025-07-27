@@ -109,4 +109,4 @@ Agregar estas líneas al inicio del código.
 - El sistema usa puertos seriales virtuales para simular la comunicación RS-232
 - Los voltajes se simulan entre -12V y +12V según el estándar RS-232
 - La paridad se calcula como paridad par
-- La velocidad máxima recomendada es 115200 bps
+- La máxima tasa de transferencia recomendada es 115200 bps
